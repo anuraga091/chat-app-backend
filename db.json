@@ -1,0 +1,436 @@
+{
+  "chats": [
+    {
+      "chat_id": 10000,
+      "user_id": 1,
+      "sender_details": {
+        "user_id": 2,
+        "profile_data": {
+          "first_name": "Rohit",
+          "last_name": "Sharma",
+          "profile_picture": "https://via.placeholder.com/50",
+          "headline": "Software Engineer",
+          "followers": "8787878"
+        }
+      },
+      "last_message": {
+        "id": "msg2",
+        "content": "I am good, thanks!",
+        "created_at": "2024-05-29T04:14:45.614Z",
+        "status": "READ"
+      },
+      "last_message.status": "READ"
+    },
+    {
+      "chat_id": 10001,
+      "user_id": 1,
+      "sender_details": {
+        "user_id": 3,
+        "profile_data": {
+          "first_name": "Virat",
+          "last_name": "Kohli",
+          "profile_picture": "https://via.placeholder.com/50",
+          "headline": "Cricketer",
+          "followers": "12000000"
+        }
+      },
+      "last_message": {
+        "id": "msg4",
+        "content": "Yes, I will be there.",
+        "created_at": "2024-06-01T04:14:45.614Z",
+        "status": "DELIVERED"
+      },
+      "last_message.status": "READ"
+    },
+    {
+      "chat_id": 10002,
+      "user_id": 1,
+      "sender_details": {
+        "user_id": 4,
+        "profile_data": {
+          "first_name": "MS",
+          "last_name": "Dhoni",
+          "profile_picture": "https://via.placeholder.com/50",
+          "headline": "Captain Cool",
+          "followers": "9500000"
+        }
+      },
+      "last_message": {
+        "id": "msg6",
+        "content": "Thank you!",
+        "created_at": "2024-06-02T04:14:45.614Z",
+        "status": "DELIVERED"
+      }
+    },
+    {
+      "chat_id": 10003,
+      "user_id": 1,
+      "sender_details": {
+        "user_id": 5,
+        "profile_data": {
+          "first_name": "Sachin",
+          "last_name": "Tendulkar",
+          "profile_picture": "https://via.placeholder.com/50",
+          "headline": "Master Blaster",
+          "followers": "20000000"
+        }
+      },
+      "last_message": {
+        "id": "msg8",
+        "content": "Thank you for your kind words.",
+        "created_at": "2024-06-03T04:14:45.614Z",
+        "status": "READ"
+      }
+    },
+    {
+      "chat_id": 10004,
+      "user_id": 1,
+      "sender_details": {
+        "user_id": 6,
+        "profile_data": {
+          "first_name": "Rahul",
+          "last_name": "Dravid",
+          "profile_picture": "https://via.placeholder.com/50",
+          "headline": "The Wall",
+          "followers": "8000000"
+        }
+      },
+      "last_message": {
+        "id": "msg10",
+        "content": "Thanks!",
+        "created_at": "2024-06-04T04:14:45.614Z",
+        "status": "DELIVERED"
+      }
+    },
+    {
+      "chat_id": 10005,
+      "user_id": 1,
+      "sender_details": {
+        "user_id": 7,
+        "profile_data": {
+          "first_name": "Sourav",
+          "last_name": "Ganguly",
+          "profile_picture": "https://via.placeholder.com/50",
+          "headline": "Dada",
+          "followers": "7500000"
+        }
+      },
+      "last_message": {
+        "id": "msg12",
+        "content": "Thank you for the support.",
+        "created_at": "2024-06-05T04:14:45.614Z",
+        "status": "DELIVERED"
+      }
+    },
+    {
+      "chat_id": 10006,
+      "user_id": 1,
+      "sender_details": {
+        "user_id": 8,
+        "profile_data": {
+          "first_name": "Yuvraj",
+          "last_name": "Singh",
+          "profile_picture": "https://via.placeholder.com/50",
+          "headline": "Six Sixes",
+          "followers": "6000000"
+        }
+      },
+      "last_message": {
+        "id": "msg14",
+        "content": "Indeed, it was fantastic.",
+        "created_at": "2024-06-06T04:14:45.614Z",
+        "status": "READ"
+      }
+    },
+    {
+      "chat_id": 10007,
+      "user_id": 1,
+      "sender_details": {
+        "user_id": 9,
+        "profile_data": {
+          "first_name": "Jasprit",
+          "last_name": "Bumrah",
+          "profile_picture": "https://via.placeholder.com/50",
+          "headline": "Fast Bowler",
+          "followers": "5000000"
+        }
+      },
+      "last_message": {
+        "id": "msg16",
+        "content": "Thanks! It was my day.",
+        "created_at": "2024-06-07T04:14:45.614Z",
+        "status": "DELIVERED"
+      }
+    },
+    {
+      "chat_id": 10008,
+      "user_id": 1,
+      "sender_details": {
+        "user_id": 10,
+        "profile_data": {
+          "first_name": "Harbhajan",
+          "last_name": "Singh",
+          "profile_picture": "https://via.placeholder.com/50",
+          "headline": "Turbanator",
+          "followers": "4000000"
+        }
+      },
+      "last_message": {
+        "id": "msg18",
+        "content": "Thank you!",
+        "created_at": "2024-06-08T04:14:45.614Z",
+        "status": "READ"
+      }
+    },
+    {
+      "chat_id": 10009,
+      "user_id": 1,
+      "sender_details": {
+        "user_id": 11,
+        "profile_data": {
+          "first_name": "Rishabh",
+          "last_name": "Pant",
+          "profile_picture": "https://via.placeholder.com/50",
+          "headline": "Wicketkeeper",
+          "followers": "7000000"
+        }
+      },
+      "last_message": {
+        "id": "msg20",
+        "content": "I appreciate that.",
+        "created_at": "2024-06-09T04:14:45.614Z",
+        "status": "DELIVERED"
+      }
+    }
+  ],
+  "messages": [
+    {
+      "id": "msg1",
+      "chat_id": 10000,
+      "content": "Hey, how are you?",
+      "created_at": "2024-05-28T04:14:45.614Z"
+    },
+    {
+      "id": "msg2",
+      "chat_id": 10000,
+      "content": "I am good, thanks!",
+      "created_at": "2024-05-29T04:14:45.614Z"
+    },
+    {
+      "id": "msg3",
+      "chat_id": 10001,
+      "content": "Hey, are you coming to the match?",
+      "created_at": "2024-05-30T04:14:45.614Z"
+    },
+    {
+      "id": "msg4",
+      "chat_id": 10001,
+      "content": "Yes, I will be there.",
+      "created_at": "2024-06-01T04:14:45.614Z"
+    },
+    {
+      "id": "msg5",
+      "chat_id": 10002,
+      "content": "Congratulations on the win!",
+      "created_at": "2024-06-01T04:14:45.614Z"
+    },
+    {
+      "id": "msg6",
+      "chat_id": 10002,
+      "content": "Thank you!",
+      "created_at": "2024-06-02T04:14:45.614Z"
+    },
+    {
+      "id": "msg7",
+      "chat_id": 10003,
+      "content": "You are a legend!",
+      "created_at": "2024-06-02T04:14:45.614Z"
+    },
+    {
+      "id": "msg8",
+      "chat_id": 10003,
+      "content": "Thank you for your kind words.",
+      "created_at": "2024-06-03T04:14:45.614Z"
+    },
+    {
+      "id": "msg9",
+      "chat_id": 10004,
+      "content": "Solid defense in the last match!",
+      "created_at": "2024-06-03T04:14:45.614Z"
+    },
+    {
+      "id": "msg10",
+      "chat_id": 10004,
+      "content": "Thanks!",
+      "created_at": "2024-06-04T04:14:45.614Z"
+    },
+    {
+      "id": "msg11",
+      "chat_id": 10005,
+      "content": "Your captaincy is brilliant!",
+      "created_at": "2024-06-04T04:14:45.614Z"
+    },
+    {
+      "id": "msg12",
+      "chat_id": 10005,
+      "content": "Thank you for the support.",
+      "created_at": "2024-06-05T04:14:45.614Z"
+    },
+    {
+      "id": "msg13",
+      "chat_id": 10006,
+      "content": "What a game yesterday!",
+      "created_at": "2024-06-05T04:14:45.614Z"
+    },
+    {
+      "id": "msg14",
+      "chat_id": 10006,
+      "content": "Indeed, it was fantastic.",
+      "created_at": "2024-06-06T04:14:45.614Z"
+    },
+    {
+      "id": "msg15",
+      "chat_id": 10007,
+      "content": "Your sixes were amazing!",
+      "created_at": "2024-06-06T04:14:45.614Z"
+    },
+    {
+      "id": "msg16",
+      "chat_id": 10007,
+      "content": "Thanks! It was my day.",
+      "created_at": "2024-06-07T04:14:45.614Z"
+    },
+    {
+      "id": "msg17",
+      "chat_id": 10008,
+      "content": "Great bowling performance!",
+      "created_at": "2024-06-07T04:14:45.614Z"
+    },
+    {
+      "id": "msg18",
+      "chat_id": 10008,
+      "content": "Thank you!",
+      "created_at": "2024-06-08T04:14:45.614Z"
+    },
+    {
+      "id": "msg19",
+      "chat_id": 10009,
+      "content": "You played well!",
+      "created_at": "2024-06-08T04:14:45.614Z"
+    },
+    {
+      "id": "msg20",
+      "chat_id": 10009,
+      "content": "I appreciate that.",
+      "created_at": "2024-06-09T04:14:45.614Z"
+    },
+    {
+      "id": "msg21",
+      "chat_id": 10000,
+      "content": "Are you free this weekend?",
+      "created_at": "2024-06-10T04:14:45.614Z"
+    },
+    {
+      "id": "msg22",
+      "chat_id": 10000,
+      "content": "Yes, let's catch up!",
+      "created_at": "2024-06-11T04:14:45.614Z"
+    },
+    {
+      "id": "msg23",
+      "chat_id": 10001,
+      "content": "How's the preparation for the match?",
+      "created_at": "2024-06-11T04:14:45.614Z"
+    },
+    {
+      "id": "msg24",
+      "chat_id": 10001,
+      "content": "Going well. Thanks for asking!",
+      "created_at": "2024-06-12T04:14:45.614Z"
+    },
+    {
+      "id": "msg25",
+      "chat_id": 10002,
+      "content": "What a fantastic innings!",
+      "created_at": "2024-06-12T04:14:45.614Z"
+    },
+    {
+      "id": "msg26",
+      "chat_id": 10002,
+      "content": "Thank you. It was a team effort.",
+      "created_at": "2024-06-13T04:14:45.614Z"
+    },
+    {
+      "id": "msg27",
+      "chat_id": 10003,
+      "content": "You are an inspiration!",
+      "created_at": "2024-06-13T04:14:45.614Z"
+    },
+    {
+      "id": "msg28",
+      "chat_id": 10003,
+      "content": "Thank you for the kind words.",
+      "created_at": "2024-06-14T04:14:45.614Z"
+    },
+    {
+      "id": "msg29",
+      "chat_id": 10004,
+      "content": "Your defense is unbeatable!",
+      "created_at": "2024-06-14T04:14:45.614Z"
+    },
+    {
+      "id": "msg30",
+      "chat_id": 10004,
+      "content": "Thanks for the support!",
+      "created_at": "2024-06-15T04:14:45.614Z"
+    },
+    {
+      "id": "msg31",
+      "chat_id": 10005,
+      "content": "Amazing leadership skills!",
+      "created_at": "2024-06-15T04:14:45.614Z"
+    },
+    {
+      "id": "msg32",
+      "chat_id": 10005,
+      "content": "Thank you!",
+      "created_at": "2024-06-16T04:14:45.614Z"
+    },
+    {
+      "id": "msg33",
+      "chat_id": 10006,
+      "content": "Great match yesterday!",
+      "created_at": "2024-06-16T04:14:45.614Z"
+    },
+    {
+      "id": "msg34",
+      "chat_id": 10006,
+      "content": "Yes, it was fantastic.",
+      "created_at": "2024-06-17T04:14:45.614Z"
+    },
+    {
+      "id": "msg35",
+      "chat_id": 10007,
+      "content": "Your sixes were phenomenal!",
+      "created_at": "2024-06-17T04:14:45.614Z"
+    },
+    {
+      "id": "msg36",
+      "chat_id": 10007,
+      "content": "Thank you. It was my day.",
+      "created_at": "2024-06-18T04:14:45.614Z"
+    },
+    {
+      "id": "msg37",
+      "chat_id": 10008,
+      "content": "Amazing bowling!",
+      "created_at": "2024-06-18T04:14:45.614Z"
+    },
+    {
+      "id": "msg38",
+      "chat_id": 10008,
+      "content": "Thanks a lot!",
+      "created_at": "2024-06-19T04:14:45.614Z"
+    }
+  ]
+}
